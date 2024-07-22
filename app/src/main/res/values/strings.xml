@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="texto">Pokemon</string>
+    <string name="description">Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo.</string>
+</resources>
